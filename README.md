@@ -2,6 +2,8 @@
 
 Aplikasi web interaktif untuk menganalisis data Olimpiade dari tahun ke tahun menggunakan Streamlit.
 
+Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 ## Fitur
 
 - **Medal Tally**: Analisis perolehan medali berdasarkan negara dan tahun
